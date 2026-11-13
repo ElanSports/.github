@@ -6,9 +6,9 @@ Shared AI skills and guidance for Elan colleagues. This page explains how to get
 
 1. **Use your own GitHub account.** [Create a free account](https://github.com/signup) if needed. An individual personal account or individually assigned work account is suitable. Do not use a shared team login.
 2. **Send your GitHub username to Matevž.** Use your usual internal company channel. Send the username shown in your GitHub profile URL, not just your display name. Never send your password, token, or recovery codes.
-3. **Accept the ElanSports invitation.** Matevž grants access; creating an account alone does not add you to the organization. Accept the invitation using the same account whose username you provided.
+3. **Accept the ElanSports invitation.** Matevž grants access; creating an account or receiving an invitation alone does not add you to the organization. Using the same account whose username you provided, open [the invitation page](https://github.com/orgs/ElanSports/invitation) and choose **Join ElanSports**. If offered, **Ask for a GitHub Copilot seat** is optional and not needed for the library.
 4. **Connect that account to your AI.** In your AI app's Apps, Plugins, or Connectors settings, connect GitHub and authorize the same personal account. The tested ChatGPT connection is called **ChatGPT Codex Connector**. Other tools need their own supported GitHub connection.
-5. **Open the private library.** Once invited, visit [ElanSports/ai-library](https://github.com/ElanSports/ai-library) and follow its employee guide. If you cannot see the contents, ask Matevž to check access. The link is not accessible before permission is granted.
+5. **Open the private library.** Once you have accepted the invitation, visit [ElanSports/ai-library](https://github.com/ElanSports/ai-library) and follow its employee guide. If you cannot see the contents, ask Matevž to check access. The link is not accessible before permission is granted.
 6. **Verify access in your AI chat.** Ask your AI to read `README.md` from `ElanSports/ai-library` on `main`. Seeing the repository in your browser does not automatically mean the AI connection can read it.
 
 ## Important
